@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [[ "$(git log --merges HEAD^..)" == "" ]]; then
     exit 0
 else
