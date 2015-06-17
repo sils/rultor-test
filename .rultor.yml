@@ -2,4 +2,4 @@ install:
   - git config merge.ff = only
 merge:
   script:
-    - sh test.sh
+    - bash test.sh
