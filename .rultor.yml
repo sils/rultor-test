@@ -2,4 +2,4 @@ merge:
   fast-forward: only
   rebase: true
   script:
-    - eval exit 0
+    - eval return 0
