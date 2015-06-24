@@ -1,4 +1,4 @@
 merge:
-  fastforward: only
+  fast-forward: only
   script:
     - bash test.sh
