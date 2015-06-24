@@ -1,4 +1,5 @@
 merge:
   fast-forward: only
+  rebase: true
   script:
     - bash test.sh
