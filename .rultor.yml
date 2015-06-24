@@ -2,4 +2,4 @@ merge:
   fast-forward: only
   rebase: true
   script:
-    - bash test.sh
+    - eval exit 0
