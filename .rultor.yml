@@ -2,3 +2,6 @@ merge:
   fast-forward: only
   rebase: true
   script: echo "NOTHIGN"
+
+release:
+  script:
