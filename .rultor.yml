@@ -4,4 +4,4 @@ merge:
   script: echo "NOTHIGN"
 
 release:
-  script:
+  script: release.sh
